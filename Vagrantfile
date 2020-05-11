@@ -26,7 +26,7 @@ Vagrant.configure('2') do |config|
         machine1.vm.provider "virtualbox" do |vb|
             vb.cpus = 1
         end
-        machine1.vm.synced_folder "DevOps13/", "/home/vagrant/mission"
+        machine1.vm.synced_folder "DevOps14/", "/home/vagrant/mission"
     end
 
     config.vm.define "server1", primary: false do |machine2|
