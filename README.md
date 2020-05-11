@@ -1,8 +1,8 @@
 # DevOps14
 
-This vagrant will install 3 Linux Ubuntu machines, 2x node server and 1 ubuntu server with Ansible.
+This vagrant will install 3 Linux Ubuntu machines, 2x node server and 1 ubuntu server with Ansible. This DevOps will show how network automation works with Cisco routers.
 It will add some default users, groups and directory's.
-This Vagrant is to practice with Ansible.
+This Vagrant is to practice with Ansible and Cisco routers.
 This repository is intended for educational purpose only.
 
 
@@ -24,7 +24,7 @@ Youtube: https://youtu.be/KABnIuaA8SM
 
 ## Demo Ansible with Cisco routers
 
-Youtube: 
+Youtube: https://youtu.be/9BzxsYLMDas
 
 
 ## Installation
